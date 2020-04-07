@@ -1,10 +1,10 @@
 #  Web-Teknolojiler-Odev1
 
-Proje Amacı
+**** Proje Amacı
 HTML,CSS,Javascript vb. kulanilarak bir web sitesi gelistirilmesi.
 
 Proje Detayları
-'''
+
 • Kendi memleketimi tanıtan kişisel bir web sitesi ugulaması geliştirilecektir.
 
 • Site tasarımı olarak Bootstrap içeren responsive bir yapı kullanılacaktır.
