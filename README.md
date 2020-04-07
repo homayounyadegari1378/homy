@@ -1,4 +1,5 @@
-Web-Teknolojiler-Odev1
+&Web-Teknolojiler-Odev1
+
 Proje Amacı
 HTML,CSS,Javascript vb. kulanilarak bir web sitesi gelistirilmesi.
 
